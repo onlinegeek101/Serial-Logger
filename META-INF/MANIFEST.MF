@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: . ./Configuration_Files ./Configuration_Files/amd64/ ./Configuration_Files/i386/ ./Configuration_Files/i686/ ./Configuration_Files/Mac/
+Main-Class: serial.logger.GUI
+
